@@ -1,8 +1,6 @@
 @media only screen and (max-width: 767px) {
 	body {
 		background-image: url("img/hero-bg.jpg");
-		cursor: url("img/_arrow.cur"), default;
-		cursor: url("img/AppStarting.ani"), pointer;
 	}
 }
 body {
